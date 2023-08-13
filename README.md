@@ -42,13 +42,16 @@ Python, ООП, Pandas, Matplotlib, seaborn, sklearn, catboost, xgboost, Pytorch
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
 </div>
+
 ## Контакты
 <div>
-  <a href="https://t.me/vitalik_bauer">
-    <img src="https://camo.githubusercontent.com/537abba48a3491f933044a40841b695e7edaee183b225ea26071dfe0d474c73b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fd0b2d0bad0bed0bdd182d0b0d0bad182d0b52d2532333245383746422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465" alt="Telegram Badge"/>
+  <a href="https://vk.com/bauervitaly">
+    <img src="https://camo.githubusercontent.com/537abba48a3491f933044a40841b695e7edaee183b225ea26071dfe0d474c73b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fd0b2d0bad0bed0bdd182d0b0d0bad182d0b52d2532333245383746422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465" alt="VK Badge"/>
+  </a>
+    <a href="https://t.me/vitalik_bauer">
+    <img src="https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465"/>
   </a>
   </div>
-https://vk.com/bauervitaly
 
 
 <!--
