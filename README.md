@@ -41,6 +41,8 @@ Python, ООП, Pandas, Matplotlib, seaborn, sklearn, catboost, xgboost, Pytorch
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Maddimond/ML_icons/blob/main/seaborn.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Uniserg/Uniserg/blob/main/icons/data%20science/sklearn.svg" title="Sklearn" alt="Sklearn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
